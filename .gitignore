@@ -1,0 +1,35 @@
+## Build outputs
+bin/
+obj/
+publish/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.db
+
+## JetBrains Rider / IntelliJ
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf/
+.idea/**/dataSources/
+.idea/**/dataSources.local.xml
+*.iml
+
+## Logs and temp
+*.log
+*.swp
+*.tmp
+~$*
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+
+## OS files
+Thumbs.db
+.DS_Store
